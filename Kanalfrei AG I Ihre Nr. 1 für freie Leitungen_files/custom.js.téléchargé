@@ -1,0 +1,1 @@
+jQuery(document).ready(function($){jQuery('.with_frm_style .frm_radio input[type=radio]').after('<span>');jQuery('.with_frm_style .frm_checkbox input[type=checkbox]').after('<span>')})
